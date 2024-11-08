@@ -1,0 +1,7 @@
+
+USE [PROJETO INTEGRADO] 
+
+UPDATE CONTATOS
+SET EMAIL = 'joao.silva311@gmail.com'
+WHERE CONTATOS_ID = 4;
+
